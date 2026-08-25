@@ -8,3 +8,8 @@ The goal isn't to prove that GenAI images are good or bad. It's to experience wh
 
 ## Running
 
+Run the workshop notebook
+
+```bash
+uv run marimo edit notebooks/image-gen-challange.py
+```
